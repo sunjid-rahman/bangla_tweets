@@ -1,0 +1,974 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 18:16:28 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/TheSicario5/st\u2026",
+                "expanded_url": "https://twitter.com/TheSicario5/status/1343243974329286656",
+                "indices": [
+                    97,
+                    120
+                ],
+                "url": "https://t.co/QyjluWcYRz"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1343259466909675521,
+    "id_str": "1343259466909675521",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        92.402527,
+                        25.712904
+                    ],
+                    [
+                        93.322407,
+                        25.712904
+                    ],
+                    [
+                        93.322407,
+                        26.698346
+                    ],
+                    [
+                        92.402527,
+                        26.698346
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Nagaon, India",
+        "id": "0a750f403270cbb4",
+        "name": "Nagaon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0a750f403270cbb4.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 27 17:14:54 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/oJtI5UTQGe",
+                    "expanded_url": "https://twitter.com/TheSicario5/status/1343243974329286656/photo/1",
+                    "id": 1343243962857885696,
+                    "id_str": "1343243962857885696",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EqQpRHTVEAA7y54.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EqQpRHTVEAA7y54.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 497,
+                            "resize": "fit",
+                            "w": 720
+                        },
+                        "medium": {
+                            "h": 497,
+                            "resize": "fit",
+                            "w": 720
+                        },
+                        "small": {
+                            "h": 469,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/oJtI5UTQGe"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1265145531703140352,
+                    "id_str": "1265145531703140352",
+                    "indices": [
+                        42,
+                        56
+                    ],
+                    "name": "Gargee Kashyap",
+                    "screen_name": "KashyapGargee"
+                },
+                {
+                    "id": 881415469189804032,
+                    "id_str": "881415469189804032",
+                    "indices": [
+                        58,
+                        71
+                    ],
+                    "name": "Lurinjyoti Gogoi",
+                    "screen_name": "lurinjtgogoi"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/oJtI5UTQGe",
+                    "expanded_url": "https://twitter.com/TheSicario5/status/1343243974329286656/photo/1",
+                    "id": 1343243962857885696,
+                    "id_str": "1343243962857885696",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EqQpRHTVEAA7y54.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EqQpRHTVEAA7y54.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 497,
+                            "resize": "fit",
+                            "w": 720
+                        },
+                        "medium": {
+                            "h": 497,
+                            "resize": "fit",
+                            "w": 720
+                        },
+                        "small": {
+                            "h": 469,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/oJtI5UTQGe"
+                }
+            ]
+        },
+        "favorite_count": 13,
+        "favorited": false,
+        "geo": null,
+        "id": 1343243974329286656,
+        "id_str": "1343243974329286656",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "bn",
+        "metadata": {
+            "iso_language_code": "bn",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "\u09aa'\u09b2\u09bf\u0985 \u09a8\u09cb\u0996\u09cb\u09f1\u09be \u09b2\u09f0\u09be \u099b\u09cb\u09f1\u09be\u09b2\u09c0 \u09aa\u0982\u0997\u09c1 \u09b9\u09af\u09bc\u09c7\u0987 ! \ud83d\ude38\ud83d\ude39\ud83d\ude39\ud83d\ude38 @KashyapGargee  @lurinjtgogoi  \u0995\u09bf \u09b9'\u09b2 ? https://t.co/oJtI5UTQGe",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed May 13 06:45:12 +0000 2020",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "(\u09ae\u0987 \u099a\u09bf\u09b2\u09a8\u09c0\u09f0 \u09aa\u09c1\u09a4\u09c7\u0995\u09f0 \u09ad\u09a8\u09c0 )\u0986\u0995\u09be\u09b6\u09a4 \u0989\u09f0\u09bf \u09a5\u09be\u0995\u09bf \u099a\u09bf\u0995\u09be\u09f0\u09f0 \u09b8\u09a8\u09cd\u09a7\u09be\u09a8 \u0995\u09f0\u09cb\u0981, \u099a\u09bf\u0995\u09be\u09f0 \u09a6\u09c7\u0996\u09bf\u09b2\u09c7\u0987 \u099a\u09cb\u0981 \u09ae\u09be\u09f0\u09bf \u09a8\u09be\u09ae\u09bf \u0986\u09b9\u09bf \u099c\u09c0\u09f1\u09a8\u09cd\u09a4\u09c7 \u0985\u09f1\u09b8\u09cd\u09a5\u09be\u09a4 \u099a\u09bf\u0995\u09be\u09f0 \u09a7\u09f0\u09cb\u0981\u0964 #\u099c\u09df_\u09aa\u09cd\u09f0\u09be\u0997\u099c\u09cd\u09af\u09cb\u09a4\u09bf\u09b7\u09aa\u09c1\u09f0 \ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3\ud83d\udea9\ud83d\udea9",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 10560,
+            "follow_request_sent": false,
+            "followers_count": 1067,
+            "following": false,
+            "friends_count": 636,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1260461018410598407,
+            "id_str": "1260461018410598407",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 0,
+            "location": "\u099a\u09bf\u09b2\u09a8\u09c0 \u09ad\u09f1\u09a8",
+            "name": "\u099a\u09bf\u09b2\u09a8\u09c0\u09f0 \u099c\u09c0\u09df\u09c7\u0995",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260461018410598407/1589352986",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1338856579014127617/7v511Xh6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338856579014127617/7v511Xh6_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TheSicario5",
+            "statuses_count": 6244,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1343243974329286656,
+    "quoted_status_id_str": "1343243974329286656",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "\u09b6\u09bf\u09b6\u09c1 \u099c\u09a8\u09cd\u09ae \u09b9\u09cb\u09f1\u09be\u09f0 \u09aa\u09f0\u09be \u099b\u09ae\u09be\u09b9/ \u09ac\u099b\u09f0\u09b2\u09c8\u0995\u09c7 \u09aa\u09b2\u09bf\u0985 \u0994\u09b7\u09a7 \u09b8\u09c7\u09ac\u09a8 \u0995\u09f0\u09bf\u09b2\u09c7 \u09a8\u09bf\u09f0\u09cb\u0997\u09c0 \u09b9\u09af\u09bc\u0964 \n\u09a8\u09b9\u09b2\u09c7 \u09b6\u09bf\u09b6\u09c1 \u099f\u09cb \u09a8\u09bf\u09b6\u0995\u09a4\u09c0\u09af\u09bc\u09be \u09b9\u09af\u09bc \ud83d\udc80\ud83d\udc80 https://t.co/QyjluWcYRz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 16 12:32:11 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "professor",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8964,
+        "follow_request_sent": false,
+        "followers_count": 1230,
+        "following": false,
+        "friends_count": 837,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1173575018527150085,
+        "id_str": "1173575018527150085",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Jayanta borah Jayanta",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1173575549261795328/0W_Yfb0u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173575549261795328/0W_Yfb0u_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JayantaborahJa1",
+        "statuses_count": 5330,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 18:12:39 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KNCigauuIB",
+                "expanded_url": "https://twitter.com/subhankaravi1/status/1343258505935867905/photo/1",
+                "id": 1343258502253346816,
+                "id_str": "1343258502253346816",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/media/EqQ2faxVgAAbS1R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EqQ2faxVgAAbS1R.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1620
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/KNCigauuIB"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KNCigauuIB",
+                "expanded_url": "https://twitter.com/subhankaravi1/status/1343258505935867905/photo/1",
+                "id": 1343258502253346816,
+                "id_str": "1343258502253346816",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/media/EqQ2faxVgAAbS1R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EqQ2faxVgAAbS1R.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1620
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/KNCigauuIB"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1343258505935867905,
+    "id_str": "1343258505935867905",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        88.094457,
+                        22.269493
+                    ],
+                    [
+                        88.610027,
+                        22.269493
+                    ],
+                    [
+                        88.610027,
+                        22.955918
+                    ],
+                    [
+                        88.094457,
+                        22.955918
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Kolkata, India",
+        "id": "70957ac3123b3249",
+        "name": "Kolkata",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "\u09ac\u09b9\u09c1\u09a6\u09bf\u09a8 \u09ac\u09be\u09a6\u09c7 \u0986\u09ac\u09be\u09b0 \u09a4\u09bf\u09a8\u099c\u09a8 \u098f\u0995 \u09ab\u09cd\u09b0\u09c7\u09ae\u09c7 \u2764\ufe0f\n\n\u099b\u09ac\u09bf \u09a4\u09c1\u09b2\u09c7\u099b\u09c7 \u0995\u09be\u0995\u09c1 Debasish Ray https://t.co/KNCigauuIB",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 04 10:07:33 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#SoftwareEngineer#VideoStoryCreator #B'Day3rdSep #SportsEditor #WebPortalProducer#Actor #ProductionManager https://t.co/Sl8H7vnmUx #LEFT",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/DoyatKolomMonK\u2026",
+                        "expanded_url": "https://www.facebook.com/DoyatKolomMonKolkata/",
+                        "indices": [
+                            107,
+                            130
+                        ],
+                        "url": "https://t.co/Sl8H7vnmUx"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "m.youtube.com/channel/UCnUE4\u2026",
+                        "expanded_url": "https://m.youtube.com/channel/UCnUE4BtYN_jvHS1LEZwMIgQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/O4LAdBh6nq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1148,
+        "follow_request_sent": false,
+        "followers_count": 32,
+        "following": false,
+        "friends_count": 160,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4708165261,
+        "id_str": "4708165261",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Kolkata, India",
+        "name": "Subhankar Das",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4708165261/1591036040",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1267522990855483392/8Q2wm6lg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267522990855483392/8Q2wm6lg_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "subhankaravi1",
+        "statuses_count": 886,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/O4LAdBh6nq",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 18:08:54 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/FypAn1I8bN",
+                "expanded_url": "https://twitter.com/Spread_humour/status/1343257563245076480/photo/1",
+                "id": 1343257559772389377,
+                "id_str": "1343257559772389377",
+                "indices": [
+                    23,
+                    46
+                ],
+                "media_url": "http://pbs.twimg.com/media/EqQ1ojwXYAEcvJF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EqQ1ojwXYAEcvJF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1080
+                    },
+                    "medium": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1080
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/FypAn1I8bN"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/FypAn1I8bN",
+                "expanded_url": "https://twitter.com/Spread_humour/status/1343257563245076480/photo/1",
+                "id": 1343257559772389377,
+                "id_str": "1343257559772389377",
+                "indices": [
+                    23,
+                    46
+                ],
+                "media_url": "http://pbs.twimg.com/media/EqQ1ojwXYAEcvJF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EqQ1ojwXYAEcvJF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1080
+                    },
+                    "medium": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1080
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/FypAn1I8bN"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1343257563245076480,
+    "id_str": "1343257563245076480",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        88.998194,
+                        26.572912
+                    ],
+                    [
+                        89.031749,
+                        26.572912
+                    ],
+                    [
+                        89.031749,
+                        26.602542
+                    ],
+                    [
+                        88.998194,
+                        26.602542
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Dhupguri, India",
+        "id": "6ee0a23206edf66a",
+        "name": "Dhupguri",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6ee0a23206edf66a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "\u09a7\u09c2\u09aa\u0997\u09c1\u09a1\u09bc\u09bf \u09ae\u09b9\u0995\u09c1\u09ae\u09be \u099a\u09be\u0987\u0964\u2763\ufe0f https://t.co/FypAn1I8bN",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 11 21:22:52 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "|| CA \ud83c\udf3c|| Teacher \ud83d\ude07 || Cricket Addict \ud83d\udd25 || Shayri and Poetry \ud83d\ude0d || Gemini \u264a|| Karma Believer\ud83d\ude4f|| Photography Enthusiastic \ud83d\udcf7",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "allkamlesh.wordpress.com",
+                        "expanded_url": "http://allkamlesh.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gJkshTtYCt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 20678,
+        "follow_request_sent": false,
+        "followers_count": 731,
+        "following": false,
+        "friends_count": 2081,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 808059498665484289,
+        "id_str": "808059498665484289",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Dhupguri, India",
+        "name": "Kamlesh Temani \ud83c\uddee\ud83c\uddf3",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/808059498665484289/1608834432",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1306245556675649536/pX9pJffp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1306245556675649536/pX9pJffp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Spread_humour",
+        "statuses_count": 1757,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/gJkshTtYCt",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 18:07:27 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 134546153,
+                "id_str": "134546153",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Abhishek Banerjee",
+                "screen_name": "abhishekaitc"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1343257197900308480,
+    "id_str": "1343257197900308480",
+    "in_reply_to_screen_name": "abhishekaitc",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 134546153,
+    "in_reply_to_user_id_str": "134546153",
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        88.094457,
+                        22.269493
+                    ],
+                    [
+                        88.610027,
+                        22.269493
+                    ],
+                    [
+                        88.610027,
+                        22.955918
+                    ],
+                    [
+                        88.094457,
+                        22.955918
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Kolkata, India",
+        "id": "70957ac3123b3249",
+        "name": "Kolkata",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@abhishekaitc \u0986\u09ae\u09b0\u09be \u099c\u09be\u09a8\u09bf \u09b6\u09c1\u09ad\u09c7\u09a8\u09cd\u09a6\u09c1 \u0985\u09a7\u09bf\u0995\u09be\u09b0\u09c0 \u09a8\u09be\u09b0\u09a6\u09be\u09af\u09bc \u099f\u09be\u0995\u09be \u09a8\u09bf\u09af\u09bc\u09c7\u099b\u09bf\u09b2 \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09b8\u09cc\u0997\u09a4 \u09b0\u09be\u09af\u09bc \u0993 \u09a4\u09cb \u099f\u09be\u0995\u09be \u09a8\u09bf\u09af\u09bc\u09c7\u099b\u09bf\u09b2 \u09b8\u09c7 \u098f\u0996\u09a8 \u0993 \u09a4\u09c3\u09a3\u09ae\u09c2\u09b2\u09c7 \u0995\u09bf \u0995\u09b0\u099b\u09c7",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 20 05:13:04 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u099c\u09be\u09a4 \u09a8\u09df \n\u09ad\u09be\u09a4 \u099a\u09be\u0987",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 224,
+        "follow_request_sent": false,
+        "followers_count": 129,
+        "following": false,
+        "friends_count": 769,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1207891593287483392,
+        "id_str": "1207891593287483392",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Kolkata, India",
+        "name": "Abhishekspeaks",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207891593287483392/1604255651",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318603622112874496/MvtyUR7E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318603622112874496/MvtyUR7E_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Abhishe71082927",
+        "statuses_count": 477,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 18:03:13 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1343256132198887424",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/6wlYsV6Ze3"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "geo": null,
+    "id": 1343256132198887424,
+    "id_str": "1343256132198887424",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        89.699724,
+                        24.132669
+                    ],
+                    [
+                        96.021045,
+                        24.132669
+                    ],
+                    [
+                        96.021045,
+                        27.972032
+                    ],
+                    [
+                        89.699724,
+                        27.972032
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Assam, India",
+        "id": "47fb55876adec22e",
+        "name": "Assam",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/47fb55876adec22e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "\ud83d\udc49\u0997\u09c1\u09f1\u09be\u09b9\u09be\u099f\u09c0\u09f0 \u09a6\u09cd\u09ac\u09bf\u09a4\u09c0\u09af\u09bc \u09ae\u09c7\u09a1\u09bf\u0995\u09c7\u09b2 \u0995\u09b2\u09c7\u099c\u09f0 \u09ac\u09be\u09ac\u09c7 \u09ed\u09eb\u09eb \u0995\u09cb\u099f\u09bf \u0964\n\n\ud83d\udc49 \u0985\u09b8\u09ae\u09a4 \u09ef \u0996\u09a8 \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09f0\u09c0\u09af\u09bc \u0986\u0987\u09a8 \u09ae\u09b9\u09be\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc \u0964\n\n\ud83d\udc49\u09ee\u09e6\u09e6\u09e6 \u09a8\u09be\u09ae\u0998\u09f0\u09b2\u09c8 \u09e8\u09e6\u09e6 \u0995\u09cb\u2026 https://t.co/6wlYsV6Ze3",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 05 09:33:25 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Studying BCA. Founder #AssamPublicSchool. Admin @BJYMSorbhog. Admin @RCSASSorbhog. I proud to be a HINDU, Ideologically support @RSSOrg.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10864,
+        "follow_request_sent": false,
+        "followers_count": 2333,
+        "following": false,
+        "friends_count": 2787,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2231222515,
+        "id_str": "2231222515",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Sarbhog, India",
+        "name": "\u09a8\u09c0\u09b2 \u0995\u09ae\u09b2 \u09ac\u09f0\u09cd\u09ae\u09a8 \u0964\u0964",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2231222515/1457030844",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1333975745098465281/2HpSLgbL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333975745098465281/2HpSLgbL_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Nilkamal01",
+        "statuses_count": 4824,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

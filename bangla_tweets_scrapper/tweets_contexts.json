@@ -1,0 +1,2968 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 13:58:20 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1343194507421093890",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/xtyL2mQhR3"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1343194507421093890,
+    "id_str": "1343194507421093890",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "text": "\u0986\u0987\u09b8\u09bf\u09b8\u09bf \u0998\u09cb\u09b7\u09bf\u09a4 \u09a6\u09b6\u0995 \u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u098f\u0995\u09be\u09a6\u09b6\u09c7 \u099c\u09be\u09af\u09bc\u0997\u09be \u0995\u09b0\u09c7 \u09a8\u09bf\u09af\u09bc\u09c7\u099b\u09c7\u09a8 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09c7\u09b0 \u09a4\u09be\u09b0\u0995\u09be \u0985\u09b2\u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09be\u09b0 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8\u0964 \u09b8\u09ae\u09cd\u09aa\u09cd\u09b0\u09a4\u09bf \u0995\u09cd\u09b0\u09bf\u2026 https://t.co/xtyL2mQhR3",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 09 20:27:51 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u098f\u0995\u099f\u09bf \u09b8\u09be\u09ae\u09be\u099c\u09bf\u0995 \u09a6\u09b0\u09cd\u09aa\u09a3",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dasharbarta.net",
+                        "expanded_url": "http://www.dasharbarta.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6V3ia2GZuE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 749,
+        "following": false,
+        "friends_count": 22,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1581382507,
+        "id_str": "1581382507",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Bangladesh",
+        "name": "\u09a1\u09be\u09b8\u09be\u09b0 \u09ac\u09be\u09b0\u09cd\u09a4\u09be",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581382507/1574022430",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196162539488501763/cIxisb4g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196162539488501763/cIxisb4g_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dasharbarta",
+        "statuses_count": 9220,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/6V3ia2GZuE",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 13:23:09 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtu.be/4ucvw3plgL4",
+                "expanded_url": "https://youtu.be/4ucvw3plgL4",
+                "indices": [
+                    81,
+                    104
+                ],
+                "url": "https://t.co/rUhzIvJVBp"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1343185651898966021,
+    "id_str": "1343185651898966021",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "text": "New video by BBC News \u09ac\u09be\u0982\u09b2\u09be: \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 \u09af\u09c7\u09ad\u09be\u09ac\u09c7 \u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995 \u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u09a6\u09b2\u09c7! https://t.co/rUhzIvJVBp",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 27 17:42:28 +0000 2007",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Google Project Engineer\nAI artificial intelligence,\nGoogle assistant Go Duplex,\nFormer MScEngeer@ Banglalink\nStudyet @ Sikkim Monipal University Bangalore India",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "irak.business.site",
+                        "expanded_url": "https://irak.business.site",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MuK62uNqvi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 14,
+        "following": false,
+        "friends_count": 716,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 10663762,
+        "id_str": "10663762",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Bengalore South, India",
+        "name": "IRAK",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10663762/1588671016",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1284117768460173312/CrAHA3Qe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284117768460173312/CrAHA3Qe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "engirak",
+        "statuses_count": 1089,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/MuK62uNqvi",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 12:50:29 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/34NQFn7",
+                "expanded_url": "http://bit.ly/34NQFn7",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/i49Bb6Md8G"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 913113037292187648,
+                "id_str": "913113037292187648",
+                "indices": [
+                    3,
+                    18
+                ],
+                "name": "Daily Cricket",
+                "screen_name": "dailycricketbd"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1343177430148640770,
+    "id_str": "1343177430148640770",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 27 12:26:35 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1343171417387356160",
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "url": "https://t.co/GIniRINomJ"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "geo": null,
+        "id": 1343171417387356160,
+        "id_str": "1343171417387356160",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "bn",
+        "metadata": {
+            "iso_language_code": "bn",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "\u098f\u0995 \u09a8\u099c\u09b0\u09c7 \u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995 \u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u098f\u0995\u09be\u09a6\u09b6, \u09af\u09c7\u0996\u09be\u09a8\u09c7 \u09a0\u09be\u0987 \u09aa\u09c7\u09af\u09bc\u09c7\u099b\u09c7\u09a8 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8\u0964 \ud83c\udde7\ud83c\udde9\n\u09ac\u09bf\u09b8\u09cd\u09a4\u09be\u09b0\u09bf\u09a4 \u09aa\u09a1\u09bc\u09c1\u09a8\u0983\u2026 https://t.co/GIniRINomJ",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 27 18:48:07 +0000 2017",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Online cricket portal for live score, news and updates. Daily Cricket - for your daily dose of cricket.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "dailycricket.com.bd",
+                            "expanded_url": "http://www.dailycricket.com.bd",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/k5NAxfrvEd"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 627,
+            "follow_request_sent": false,
+            "followers_count": 862,
+            "following": false,
+            "friends_count": 115,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 913113037292187648,
+            "id_str": "913113037292187648",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 2,
+            "location": "Dhaka, Bangladesh",
+            "name": "Daily Cricket",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/913113037292187648/1574664218",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/914798843761385472/86AAw8hw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/914798843761385472/86AAw8hw_normal.jpg",
+            "profile_link_color": "1DAF15",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "dailycricketbd",
+            "statuses_count": 19928,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/k5NAxfrvEd",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @dailycricketbd: \u098f\u0995 \u09a8\u099c\u09b0\u09c7 \u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995 \u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u098f\u0995\u09be\u09a6\u09b6, \u09af\u09c7\u0996\u09be\u09a8\u09c7 \u09a0\u09be\u0987 \u09aa\u09c7\u09af\u09bc\u09c7\u099b\u09c7\u09a8 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8\u0964 \ud83c\udde7\ud83c\udde9\n\u09ac\u09bf\u09b8\u09cd\u09a4\u09be\u09b0\u09bf\u09a4 \u09aa\u09a1\u09bc\u09c1\u09a8\u0983 https://t.co/i49Bb6Md8G\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 21 14:03:44 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u09ac\u09be\u0982\u09b2\u09be\u200c\u09a6\u09c7\u09b6 \u0985\u09be\u0993\u09df\u09be\u09ae\u09c0 \u09b2\u09c0\u0997 \u0995\u09b0\u09cd\u09ae\u09c0\u0964",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/profile.php?id\u2026",
+                        "expanded_url": "https://www.facebook.com/profile.php?id=100007425042631",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/eCgZK6MYA2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 123180,
+        "follow_request_sent": false,
+        "followers_count": 1527,
+        "following": false,
+        "friends_count": 3583,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2189955503,
+        "id_str": "2189955503",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "Chittagong, Bangladesh",
+        "name": "Md Farid uddin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2189955503/1600845473",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1264807674035593216/CcHWgF-E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1264807674035593216/CcHWgF-E_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fariduddin9457",
+        "statuses_count": 34549,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/eCgZK6MYA2",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 12:26:35 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1343171417387356160",
+                "indices": [
+                    97,
+                    120
+                ],
+                "url": "https://t.co/GIniRINomJ"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1343171417387356160,
+    "id_str": "1343171417387356160",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "\u098f\u0995 \u09a8\u099c\u09b0\u09c7 \u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995 \u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u098f\u0995\u09be\u09a6\u09b6, \u09af\u09c7\u0996\u09be\u09a8\u09c7 \u09a0\u09be\u0987 \u09aa\u09c7\u09af\u09bc\u09c7\u099b\u09c7\u09a8 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8\u0964 \ud83c\udde7\ud83c\udde9\n\u09ac\u09bf\u09b8\u09cd\u09a4\u09be\u09b0\u09bf\u09a4 \u09aa\u09a1\u09bc\u09c1\u09a8\u0983\u2026 https://t.co/GIniRINomJ",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 27 18:48:07 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Online cricket portal for live score, news and updates. Daily Cricket - for your daily dose of cricket.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dailycricket.com.bd",
+                        "expanded_url": "http://www.dailycricket.com.bd",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/k5NAxfrvEd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 627,
+        "follow_request_sent": false,
+        "followers_count": 862,
+        "following": false,
+        "friends_count": 115,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 913113037292187648,
+        "id_str": "913113037292187648",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Dhaka, Bangladesh",
+        "name": "Daily Cricket",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/913113037292187648/1574664218",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/914798843761385472/86AAw8hw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/914798843761385472/86AAw8hw_normal.jpg",
+        "profile_link_color": "1DAF15",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "dailycricketbd",
+        "statuses_count": 19928,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/k5NAxfrvEd",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 12:13:15 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "coxsbazarnews.com/archives/30296\u2026",
+                "expanded_url": "http://www.coxsbazarnews.com/archives/302965.html",
+                "indices": [
+                    46,
+                    69
+                ],
+                "url": "https://t.co/rGZHgXQNxE"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1343168062988685318,
+    "id_str": "1343168062988685318",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "text": "\u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995\u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u098f\u0995\u09be\u09a6\u09b6\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 https://t.co/rGZHgXQNxE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 20 12:15:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u0995\u0995\u09cd\u09b8\u09ac\u09be\u099c\u09be\u09b0 \u09a8\u09bf\u0989\u099c -The first and most popular online News  portal of Cox'sbazar.Bangladesh.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "coxsbazarnews.com",
+                        "expanded_url": "http://www.coxsbazarnews.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5b6BATwy06"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 646,
+        "follow_request_sent": false,
+        "followers_count": 5858,
+        "following": false,
+        "friends_count": 2268,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 58458371,
+        "id_str": "58458371",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Cox'sbazar,Bangladesh.",
+        "name": "CoxsbazarNEWS - CBN",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/58458371/1587478467",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1325769995670806529/9y1cmTTb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1325769995670806529/9y1cmTTb_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CoxsbazarNews",
+        "statuses_count": 84650,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/5b6BATwy06",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 12:11:45 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bn.bdcrictime.com/%E0%A6%86%E0%A\u2026",
+                "expanded_url": "https://bn.bdcrictime.com/%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A6%B6%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%A1%E0%A7%87-%E0%A6%A6/?utm_source=google&utm_medium=organic&utm_campaign=RNAR",
+                "indices": [
+                    63,
+                    86
+                ],
+                "url": "https://t.co/4I4fC832Bu"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 118059085,
+                "id_str": "118059085",
+                "indices": [
+                    3,
+                    14
+                ],
+                "name": "bdcrictime.com",
+                "screen_name": "BDCricTime"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1343167682863005698,
+    "id_str": "1343167682863005698",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 27 09:21:23 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bn.bdcrictime.com/%E0%A6%86%E0%A\u2026",
+                    "expanded_url": "https://bn.bdcrictime.com/%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A6%B6%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%A1%E0%A7%87-%E0%A6%A6/?utm_source=google&utm_medium=organic&utm_campaign=RNAR",
+                    "indices": [
+                        47,
+                        70
+                    ],
+                    "url": "https://t.co/4I4fC832Bu"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 110,
+        "favorited": false,
+        "geo": null,
+        "id": 1343124809098543104,
+        "id_str": "1343124809098543104",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "bn",
+        "metadata": {
+            "iso_language_code": "bn",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "\u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995 \u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u09a6\u09b2\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 \ud83c\udde7\ud83c\udde9\nhttps://t.co/4I4fC832Bu",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Feb 27 13:27:21 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Follow bdcrictime for Cricket News | Scores | Latest pictures | Previews | Stats | Videos | Exclusive interviews and more.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bdcrictime.com",
+                            "expanded_url": "http://www.bdcrictime.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/w4vGAA5evL"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 255,
+            "follow_request_sent": false,
+            "followers_count": 210511,
+            "following": false,
+            "friends_count": 112,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 118059085,
+            "id_str": "118059085",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 49,
+            "location": "Dhaka, Bangladesh",
+            "name": "bdcrictime.com",
+            "notifications": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/118059085/1608311813",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/820157722293211136/A3aluqvS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/820157722293211136/A3aluqvS_normal.jpg",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BDCricTime",
+            "statuses_count": 27797,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/w4vGAA5evL",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @BDCricTime: \u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995 \u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u09a6\u09b2\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 \ud83c\udde7\ud83c\udde9\nhttps://t.co/4I4fC832Bu",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 24 16:29:10 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Editor & Researcher@BRCF",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9039,
+        "follow_request_sent": false,
+        "followers_count": 26,
+        "following": false,
+        "friends_count": 440,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1209511251681800195,
+        "id_str": "1209511251681800195",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Dhaka, Bangladesh",
+        "name": "Hemu",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214248557793837056/X0TDmsZq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214248557793837056/X0TDmsZq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hemu_pirzada",
+        "statuses_count": 9789,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 12:09:11 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 8,
+    "favorited": false,
+    "geo": null,
+    "id": 1343167040492748800,
+    "id_str": "1343167040492748800",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "\u0997\u09a4 \u09a6\u09b6 \u09ac\u099b\u09b0\u09c7\u09b0 \u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u098f\u0995\u09be\u09a6\u09b6\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8\u0964\u098f\u09ae\u09a8 \u09b8\u09ae\u09cd\u09ae\u09be\u09a8 \u09a4\u09cb \u09a4\u09be\u0995\u09c7\u0987 \u09ae\u09be\u09a8\u09be\u09af\u09bc \ud83d\udc9a",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 18 14:02:38 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\ud83d\udc49Muslim\n\ud83d\udc49Sylhet, Bangladesh \n\ud83d\udc49Cricketkhor \ud83d\udc9a\n\ud83d\udc49Madridista\ud83d\udc96\n\ud83d\udc495th feb B'day\n\ud83d\udc49Status: Virtual Happiness, my life , i like it, i need it, i want.\ud83d\udc4c\ud83d\udc4c",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7393,
+        "follow_request_sent": false,
+        "followers_count": 888,
+        "following": false,
+        "friends_count": 296,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1879559658,
+        "id_str": "1879559658",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Sylhet, Bangladesh",
+        "name": "Saiduz Zaman\u2122",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879559658/1448453299",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287380782730711041/QF2v-oxW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287380782730711041/QF2v-oxW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zamancb",
+        "statuses_count": 6106,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 11:26:34 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "lnkd.in/gcbfCXv",
+                "expanded_url": "https://lnkd.in/gcbfCXv",
+                "indices": [
+                    111,
+                    134
+                ],
+                "url": "https://t.co/XjP4Us1EWT"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1343156311731523587,
+    "id_str": "1343156311731523587",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+    "text": "\u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995\u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u098f\u0995\u09be\u09a6\u09b6\u09c7 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09a5\u09c7\u0995\u09c7 \u098f\u0995\u09ae\u09be\u09a4\u09cd\u09b0 \u0995\u09cd\u09b0\u09bf\u0995\u09c7\u099f\u09be\u09b0 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u09b8\u09c1\u09af\u09cb\u0997 \u09aa\u09c7\u09af\u09bc\u09c7\u099b\u09c7\u09a8 \u0985\u09b2\u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09be\u09b0 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 https://t.co/XjP4Us1EWT",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 13 14:38:49 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "All kind of update news available here 24 hours.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dhakatimes.com",
+                        "expanded_url": "http://www.dhakatimes.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RbCY1AGPaY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2785,
+        "follow_request_sent": false,
+        "followers_count": 98688,
+        "following": false,
+        "friends_count": 2073,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1086279288,
+        "id_str": "1086279288",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 50,
+        "location": "Dhaka",
+        "name": "Dhakatimes24.com",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1086279288/1587629645",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226775667368329216/dJcSJE_F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226775667368329216/dJcSJE_F_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DhakaTimes",
+        "statuses_count": 254654,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/RbCY1AGPaY",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 11:10:20 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "dainikmotprokash.com/2020/12/27/new\u2026",
+                "expanded_url": "https://www.dainikmotprokash.com/2020/12/27/news-id:73490/",
+                "indices": [
+                    44,
+                    67
+                ],
+                "url": "https://t.co/MFsqCbmUlg"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1343152228304093186,
+    "id_str": "1343152228304093186",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "text": "\u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995 \u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u09a6\u09b2\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2\u00a0\u09b9\u09be\u09b8\u09be\u09a8 https://t.co/MFsqCbmUlg",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 09 20:37:39 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Editor & Publisher, Dainik Motprokash (https://t.co/iZgouijBAg)",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "dainikmotprokash.com",
+                        "expanded_url": "http://www.dainikmotprokash.com",
+                        "indices": [
+                            39,
+                            62
+                        ],
+                        "url": "https://t.co/iZgouijBAg"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "shomoy71.com",
+                        "expanded_url": "http://www.shomoy71.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7JgIGgifD5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 152,
+        "follow_request_sent": false,
+        "followers_count": 1107,
+        "following": false,
+        "friends_count": 251,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2720134939,
+        "id_str": "2720134939",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Rangpur, Bangladesh",
+        "name": "A.T.M Rakibul Bassar Rakib",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2720134939/1517742297",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245266849853399040/P_HKU5ql_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245266849853399040/P_HKU5ql_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "rakibbassar",
+        "statuses_count": 20780,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/7JgIGgifD5",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 11:03:55 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "24hourbd.com/archives/85115",
+                "expanded_url": "https://24hourbd.com/archives/85115",
+                "indices": [
+                    44,
+                    67
+                ],
+                "url": "https://t.co/0ZxloInZWw"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1343150612586889218,
+    "id_str": "1343150612586889218",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "text": "\u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995 \u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u09a6\u09b2\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2\u00a0\u09b9\u09be\u09b8\u09be\u09a8 https://t.co/0ZxloInZWw",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 04 08:11:18 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 2470,
+        "following": false,
+        "friends_count": 44,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 992315719910998016,
+        "id_str": "992315719910998016",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "24hourbd.com",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/992317604273373186/tfC0gnuq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/992317604273373186/tfC0gnuq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "24hourbd",
+        "statuses_count": 16470,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 10:28:28 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "crimenewsnetwork24.com/article/28262/\u2026",
+                "expanded_url": "http://crimenewsnetwork24.com/article/28262/%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A6%B6%E0%A6%95%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%A1%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A6%E0%A6%B6%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%AC-%E0%A6%86%E0%A6%B2-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8",
+                "indices": [
+                    46,
+                    69
+                ],
+                "url": "https://t.co/31biNNJM9E"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1343141690538803200,
+    "id_str": "1343141690538803200",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "\u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995\u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u098f\u0995\u09be\u09a6\u09b6\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 https://t.co/31biNNJM9E",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 18 16:04:27 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 59,
+        "follow_request_sent": false,
+        "followers_count": 484,
+        "following": false,
+        "friends_count": 3080,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2903752386,
+        "id_str": "2903752386",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "cnnbd",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2903752386/1537989290",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238336761715019776/9zA3SZUx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238336761715019776/9zA3SZUx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cnnbd24",
+        "statuses_count": 44193,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 09:55:11 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    70,
+                    76
+                ],
+                "text": "SAH75"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HiSBKAvLrL",
+                "expanded_url": "https://twitter.com/AnasMiah6/status/1343133317776855041/photo/1",
+                "id": 1343133315130245120,
+                "id_str": "1343133315130245120",
+                "indices": [
+                    77,
+                    100
+                ],
+                "media_url": "http://pbs.twimg.com/media/EqPEokZUwAA0FSN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EqPEokZUwAA0FSN.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 311,
+                        "resize": "fit",
+                        "w": 552
+                    },
+                    "medium": {
+                        "h": 311,
+                        "resize": "fit",
+                        "w": 552
+                    },
+                    "small": {
+                        "h": 311,
+                        "resize": "fit",
+                        "w": 552
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HiSBKAvLrL"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HiSBKAvLrL",
+                "expanded_url": "https://twitter.com/AnasMiah6/status/1343133317776855041/photo/1",
+                "id": 1343133315130245120,
+                "id_str": "1343133315130245120",
+                "indices": [
+                    77,
+                    100
+                ],
+                "media_url": "http://pbs.twimg.com/media/EqPEokZUwAA0FSN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EqPEokZUwAA0FSN.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 311,
+                        "resize": "fit",
+                        "w": 552
+                    },
+                    "medium": {
+                        "h": 311,
+                        "resize": "fit",
+                        "w": 552
+                    },
+                    "small": {
+                        "h": 311,
+                        "resize": "fit",
+                        "w": 552
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HiSBKAvLrL"
+            }
+        ]
+    },
+    "favorite_count": 10,
+    "favorited": false,
+    "geo": null,
+    "id": 1343133317776855041,
+    "id_str": "1343133317776855041",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "\u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u098f\u0987 \u09a6\u09b6\u0995\u09c7\u09b0 \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u09a6\u09b2\u09c7 \u099c\u09be\u09af\u09bc\u0997\u09be \u09aa\u09c7\u09af\u09bc\u09c7\u099b\u09c7\u09a8 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8\u0964 #SAH75 https://t.co/HiSBKAvLrL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 17 13:32:22 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Studying at BBA(Hon's) Department of Accounting. Wellcome to my id.\u2764 \u0627\u064e\u0644\u0644\u0647\u064f \u0627\u064e\u0643\u0652\u0628\u064e\u0631\n(Allah is Great)\u2764",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 36955,
+        "follow_request_sent": false,
+        "followers_count": 9222,
+        "following": false,
+        "friends_count": 200,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1196058189290192897,
+        "id_str": "1196058189290192897",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Dhaka, Bangladesh ",
+        "name": "\u09ac\u09bf\u09a6\u09cd\u09b0\u09cb\u09b9\u09c0",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196058189290192897/1604507308",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1339869372534308866/KbbiHCM2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339869372534308866/KbbiHCM2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AnasMiah6",
+        "statuses_count": 19901,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 09:42:10 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "newsbee24.com/?p=60634",
+                "expanded_url": "https://newsbee24.com/?p=60634",
+                "indices": [
+                    46,
+                    69
+                ],
+                "url": "https://t.co/Ll7ebHaHva"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1343130039978774528,
+    "id_str": "1343130039978774528",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "text": "\u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995\u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u098f\u0995\u09be\u09a6\u09b6\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2\u00a0\u09b9\u09be\u09b8\u09be\u09a8 https://t.co/Ll7ebHaHva",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 25 07:14:29 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Its an Bangladeshi Renowned Online News Portal",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "newsbee24.com",
+                        "expanded_url": "https://newsbee24.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nOo6WhZFaN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 3383,
+        "following": false,
+        "friends_count": 12,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1165522730222927872,
+        "id_str": "1165522730222927872",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "",
+        "name": "NewsBee24",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165522730222927872/1566807290",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1165522908904452097/2bszj4nM_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165522908904452097/2bszj4nM_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bee24News",
+        "statuses_count": 14704,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/nOo6WhZFaN",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 09:30:50 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    89,
+                    102
+                ],
+                "text": "BreakingNews"
+            },
+            {
+                "indices": [
+                    103,
+                    107
+                ],
+                "text": "ICC"
+            },
+            {
+                "indices": [
+                    108,
+                    116
+                ],
+                "text": "cricket"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/S7EEZ35wQ4",
+                "expanded_url": "https://twitter.com/dailycricketbd/status/1343127190481747968/photo/1",
+                "id": 1343127174576934913,
+                "id_str": "1343127174576934913",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/EqO_DJDVEAE8Tbi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EqO_DJDVEAE8Tbi.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/S7EEZ35wQ4"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/S7EEZ35wQ4",
+                "expanded_url": "https://twitter.com/dailycricketbd/status/1343127190481747968/photo/1",
+                "id": 1343127174576934913,
+                "id_str": "1343127174576934913",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/EqO_DJDVEAE8Tbi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EqO_DJDVEAE8Tbi.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/S7EEZ35wQ4"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1343127190481747968,
+    "id_str": "1343127190481747968",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "\u09ac\u09cd\u09b0\u09c7\u0995\u09bf\u0982 \u09a8\u09bf\u0989\u099c : \u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 (\u09e8\u09e6\u09e7\u09e6-\u09e7\u09ef) \u09a6\u09b6\u0995 \u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u09a6\u09b2\u09c7 \u09af\u09be\u09af\u09bc\u0997\u09be \u09aa\u09c7\u09af\u09bc\u09c7\u099b\u09c7\u09a8 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8\u0964 \ud83c\udde7\ud83c\udde9\n#BreakingNews #ICC #cricket https://t.co/S7EEZ35wQ4",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 27 18:48:07 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Online cricket portal for live score, news and updates. Daily Cricket - for your daily dose of cricket.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dailycricket.com.bd",
+                        "expanded_url": "http://www.dailycricket.com.bd",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/k5NAxfrvEd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 627,
+        "follow_request_sent": false,
+        "followers_count": 862,
+        "following": false,
+        "friends_count": 115,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 913113037292187648,
+        "id_str": "913113037292187648",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Dhaka, Bangladesh",
+        "name": "Daily Cricket",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/913113037292187648/1574664218",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/914798843761385472/86AAw8hw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/914798843761385472/86AAw8hw_normal.jpg",
+        "profile_link_color": "1DAF15",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "dailycricketbd",
+        "statuses_count": 19928,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/k5NAxfrvEd",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 09:30:44 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "newsbee24.com/?p=60627",
+                "expanded_url": "https://newsbee24.com/?p=60627",
+                "indices": [
+                    50,
+                    73
+                ],
+                "url": "https://t.co/16VFtVNFy0"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1343127163197915136,
+    "id_str": "1343127163197915136",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "text": "\u09b9\u09be\u09b0\u09cd\u09b6\u09be \u09ad\u09cb\u0997\u09b2\u09c7\u09b0 \u09a6\u09b6\u0995\u09b8\u09c7\u09b0\u09be \u099f\u09c7\u09b8\u09cd\u099f \u098f\u0995\u09be\u09a6\u09b6\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2\u00a0\u09b9\u09be\u09b8\u09be\u09a8 https://t.co/16VFtVNFy0",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 25 07:14:29 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Its an Bangladeshi Renowned Online News Portal",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "newsbee24.com",
+                        "expanded_url": "https://newsbee24.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nOo6WhZFaN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 3383,
+        "following": false,
+        "friends_count": 12,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1165522730222927872,
+        "id_str": "1165522730222927872",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "",
+        "name": "NewsBee24",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165522730222927872/1566807290",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1165522908904452097/2bszj4nM_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165522908904452097/2bszj4nM_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bee24News",
+        "statuses_count": 14704,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/nOo6WhZFaN",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 09:21:23 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bn.bdcrictime.com/%E0%A6%86%E0%A\u2026",
+                "expanded_url": "https://bn.bdcrictime.com/%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A6%B6%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%A1%E0%A7%87-%E0%A6%A6/?utm_source=google&utm_medium=organic&utm_campaign=RNAR",
+                "indices": [
+                    47,
+                    70
+                ],
+                "url": "https://t.co/4I4fC832Bu"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 110,
+    "favorited": false,
+    "geo": null,
+    "id": 1343124809098543104,
+    "id_str": "1343124809098543104",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "\u0986\u0987\u09b8\u09bf\u09b8\u09bf\u09b0 \u09a6\u09b6\u0995 \u09b8\u09c7\u09b0\u09be \u0993\u09af\u09bc\u09be\u09a8\u09a1\u09c7 \u09a6\u09b2\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 \ud83c\udde7\ud83c\udde9\nhttps://t.co/4I4fC832Bu",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 27 13:27:21 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Follow bdcrictime for Cricket News | Scores | Latest pictures | Previews | Stats | Videos | Exclusive interviews and more.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bdcrictime.com",
+                        "expanded_url": "http://www.bdcrictime.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/w4vGAA5evL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 255,
+        "follow_request_sent": false,
+        "followers_count": 210511,
+        "following": false,
+        "friends_count": 112,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 118059085,
+        "id_str": "118059085",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 49,
+        "location": "Dhaka, Bangladesh",
+        "name": "bdcrictime.com",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/118059085/1608311813",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/820157722293211136/A3aluqvS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/820157722293211136/A3aluqvS_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BDCricTime",
+        "statuses_count": 27797,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/w4vGAA5evL",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 27 05:58:31 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1343073758194532352",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/muocg8oeIq"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1343073758194532352,
+    "id_str": "1343073758194532352",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "\u0986\u09ae\u09be\u09b0 \u099a\u09cb\u0996\u09c7 \u099f\u09be\u0987\u0997\u09be\u09b0\u09a6\u09c7\u09b0 \u09b8\u09c7\u09b0\u09be \u098f\u0995\u09be\u09a6\u09b6...!\n\n\u09e7 \u09a4\u09be\u09ae\u09bf\u09ae \u0987\u0995\u09ac\u09be\u09b2 (\u0985\u09a7\u09bf\u09a8\u09be\u09af\u09bc\u0995)\n\u09e8 \u09b2\u09bf\u099f\u09a8 \u0995\u09c1\u09ae\u09be\u09b0 \u09a6\u09be\u09b8 \n\u09e9 \u09a8\u09be\u099c\u09ae\u09c1\u09b2 \u09b9\u09cb\u09b8\u09c7\u09a8 \u09b6\u09be\u09a8\u09cd\u09a4 \n\u09ea \u09ae\u09c1\u09b6\u09ab\u09bf\u0995\u09c1\u09b0 \u09b0\u09b9\u09bf\u2026 https://t.co/muocg8oeIq",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 22 08:21:25 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u09ae\u09bf\u09a4\u09cd\u09af\u09c7 \u09aa\u09b0\u09bf\u09b9\u09be\u09b0 \u0995\u09b0\u09b2\u09be\u09ae",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 836,
+        "follow_request_sent": false,
+        "followers_count": 31896,
+        "following": false,
+        "friends_count": 2,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 933249042083037184,
+        "id_str": "933249042083037184",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "\u09b8\u09aa\u09cd\u09a8 \u09ac\u09be\u09b2\u0995 \u24c2\ufe0f",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/933249042083037184/1590659311",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1341748146762776584/vD4i3VAC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341748146762776584/vD4i3VAC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Sumonxxxn",
+        "statuses_count": 264,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 26 18:52:47 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "agambarta.com/%e0%a6%a6%e0%a\u2026",
+                "expanded_url": "https://www.agambarta.com/%e0%a6%a6%e0%a6%b6%e0%a6%95%e0%a6%b8%e0%a7%87%e0%a6%b0%e0%a6%be-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%8f%e0%a6%95%e0%a6%be%e0%a6%a6%e0%a6%b6%e0%a7%87-%e0%a6%b8%e0%a6%be%e0%a6%95/",
+                "indices": [
+                    36,
+                    59
+                ],
+                "url": "https://t.co/4UKNTsaOu6"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1342906221976825863,
+    "id_str": "1342906221976825863",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "text": "\u09a6\u09b6\u0995\u09b8\u09c7\u09b0\u09be \u099f\u09c7\u09b8\u09cd\u099f \u098f\u0995\u09be\u09a6\u09b6\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2\u00a0\u09b9\u09be\u09b8\u09be\u09a8 https://t.co/4UKNTsaOu6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 22 03:27:21 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Love to learn and research",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "leadingit.com.bd",
+                        "expanded_url": "https://www.leadingit.com.bd/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/UAvqoPUoEn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 308,
+        "following": false,
+        "friends_count": 256,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2887618191,
+        "id_str": "2887618191",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Dhaka,bangladesh",
+        "name": "Rashedujjaman Rashed",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2887618191/1426754412",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1128022688910307330/3f5MrE1a_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1128022688910307330/3f5MrE1a_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "iamrashed",
+        "statuses_count": 107134,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/UAvqoPUoEn",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 24 15:19:00 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nobobarta.com/%e0%a6%b8%e0%a\u2026",
+                "expanded_url": "https://www.nobobarta.com/%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%ac%e0%a6%b6%e0%a7%87%e0%a6%b7-%e0%a6%b8%e0%a6%82%e0%a6%ac%e0%a6%be%e0%a6%a6/%e0%a6%96%e0%a7%87%e0%a6%b2%e0%a6%be%e0%a6%a7%e0%a7%81%e0%a6%b2%e0%a6%be/%e0%a6%9c%e0%a6%be%e0%a6%a8%e0%a7%81%e0%a7%9f%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%87-%e0%a6%ab%e0%a6%bf%e0%a6%b0%e0%a6%ac%e0%a7%87%e0%a6%a8-%e0%a6%b8/",
+                "indices": [
+                    39,
+                    62
+                ],
+                "url": "https://t.co/tx5XCCP6lU"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1342127645526536192,
+    "id_str": "1342127645526536192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "text": "\u099c\u09be\u09a8\u09c1\u09af\u09bc\u09be\u09b0\u09bf\u09a4\u09c7 \u09a6\u09c7\u09b6\u09c7 \u09ab\u09bf\u09b0\u09ac\u09c7\u09a8 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2\u00a0\u09b9\u09be\u09b8\u09be\u09a8 https://t.co/tx5XCCP6lU",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 19 18:28:43 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Nobobarta | Latest online bangla world news bd | \u09a8\u09ac\u09ac\u09be\u09b0\u09cd\u09a4\u09be",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nobobarta.com",
+                        "expanded_url": "https://www.nobobarta.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ha3knKxALf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 45,
+        "follow_request_sent": false,
+        "followers_count": 2389,
+        "following": false,
+        "friends_count": 84,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2253896372,
+        "id_str": "2253896372",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Dhaka, Bangladesh",
+        "name": "Nobobarta",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2253896372/1481742604",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/809112673472237568/XN7iY0kJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/809112673472237568/XN7iY0kJ_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NobobartaNews",
+        "statuses_count": 43049,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ha3knKxALf",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 24 07:48:36 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    89,
+                    95
+                ],
+                "text": "SAH75"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1342014296654491651",
+                "indices": [
+                    112,
+                    135
+                ],
+                "url": "https://t.co/gEV5MRZ9sS"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1342014296654491651,
+    "id_str": "1342014296654491651",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "text": "\u09b8\u09ac \u0995\u09bf\u099b\u09c1 \u09a0\u09bf\u0995 \u09a5\u09be\u0995\u09b2\u09c7 \u0986\u0997\u09be\u09ae\u09c0 \u09e9 \u099c\u09be\u09a8\u09c1\u09af\u09bc\u09be\u09b0\u09bf \u09a6\u09c7\u09b6\u09c7 \u09ab\u09bf\u09b0\u09ac\u09c7\u09a8 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 \u0987\u09a8\u09b6\u09be\u0986\u09b2\u09cd\u09b2\u09be\u09b9\u09cd \u2665\ufe0f\n\n~ HMNAS \ud83c\udfad #SAH75 \ud83d\udc9c via Facebook\u2026 https://t.co/gEV5MRZ9sS",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 25 08:35:13 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I am a student & X Age level Cricketer... \nI always love to watches all Kind of movie \ud83c\udfa5\ud83c\udfac\ud83c\udf9e",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 371,
+        "follow_request_sent": false,
+        "followers_count": 17,
+        "following": false,
+        "friends_count": 262,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 790834084570357760,
+        "id_str": "790834084570357760",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Dhaka, Bangladesh ",
+        "name": "HM NAZMUL ALAM SHAKIB",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/790834084570357760/1582393627",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1231274239157661696/-7y7NwRz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231274239157661696/-7y7NwRz_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "itsHMNAS",
+        "statuses_count": 594,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 21 17:24:24 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1341072036630654976,
+    "id_str": "1341072036630654976",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "\u09a6\u09c1\u0987\u09a6\u09bf\u09a8\u09c7 \u09e8 \u09b8\u09cd\u09ac\u099c\u09a8 \u09b9\u09be\u09b0\u09be\u09b2\u09c7\u09a8 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 26 03:51:33 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "News and media",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 1,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1287233936825835523,
+        "id_str": "1287233936825835523",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Nabeen Voice 24.com",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287234220687933445/aRwSHUtl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287234220687933445/aRwSHUtl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "24Nabeen",
+        "statuses_count": 22,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 20 19:24:38 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/eaQDaDIGEi",
+                "expanded_url": "https://twitter.com/PratidinBangla/status/1340739908420268032/photo/1",
+                "id": 1340739896009363456,
+                "id_str": "1340739896009363456",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/EptD1PXVEAAKNyW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EptD1PXVEAAKNyW.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 296,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "medium": {
+                        "h": 296,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "small": {
+                        "h": 296,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/eaQDaDIGEi"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "banglapratidin.net/2020/12/21/%e0\u2026",
+                "expanded_url": "https://banglapratidin.net/2020/12/21/%e0%a6%b8%e0%a6%be%e0%a6%95%e0%a6%bf%e0%a6%ac-%e0%a6%86%e0%a6%b2-%e0%a6%b9%e0%a6%be%e0%a6%b8%e0%a6%be%e0%a6%a8-%e0%a6%aa%e0%a6%be%e0%a6%9a%e0%a7%8d%e0%a6%9b%e0%a7%87%e0%a6%a8-%e0%a6%86%e0%a6%87/",
+                "indices": [
+                    44,
+                    67
+                ],
+                "url": "https://t.co/ter3dhoU1D"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 9597362,
+                "id_str": "9597362",
+                "indices": [
+                    72,
+                    79
+                ],
+                "name": "Oo.",
+                "screen_name": "Bangla"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/eaQDaDIGEi",
+                "expanded_url": "https://twitter.com/PratidinBangla/status/1340739908420268032/photo/1",
+                "id": 1340739896009363456,
+                "id_str": "1340739896009363456",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/EptD1PXVEAAKNyW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EptD1PXVEAAKNyW.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 296,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "medium": {
+                        "h": 296,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "small": {
+                        "h": 296,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/eaQDaDIGEi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1340739908420268032,
+    "id_str": "1340739908420268032",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "\u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 \u09aa\u09be\u099a\u09cd\u099b\u09c7\u09a8 \u0986\u0987\u09aa\u09bf\u098f\u09b2\u09c7 \u0985\u09a7\u09bf\u09a8\u09be\u09af\u09bc\u0995\u09a4\u09cd\u09ac! https://t.co/ter3dhoU1D via @Bangla Pratidin https://t.co/eaQDaDIGEi",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 29 18:52:21 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "https://t.co/4YOB4N3EHc,  Bangla news portals in Bangladesh. \nhttps://t.co/Gb9vNtrhyo",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "banglapratidin.net",
+                        "expanded_url": "https://banglapratidin.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4YOB4N3EHc"
+                    },
+                    {
+                        "display_url": "web.facebook.com/bangla.pratidi\u2026",
+                        "expanded_url": "http://web.facebook.com/bangla.pratidin.7",
+                        "indices": [
+                            62,
+                            85
+                        ],
+                        "url": "https://t.co/Gb9vNtrhyo"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "banglapraridin.net",
+                        "expanded_url": "http://www.banglapraridin.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/FGq8x92MWi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 9,
+        "following": false,
+        "friends_count": 75,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1311015553914425344,
+        "id_str": "1311015553914425344",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Dhaka, Bangladesh",
+        "name": "\u09ac\u09be\u0999\u09b2\u09be \u09aa\u09cd\u09b0\u09a4\u09bf\u09a6\u09bf\u09a8",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311015553914425344/1603651445",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1311016819897950208/ddiWNEXc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311016819897950208/ddiWNEXc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PratidinBangla",
+        "statuses_count": 452,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/FGq8x92MWi",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 20 02:09:18 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2311396133,
+                "id_str": "2311396133",
+                "indices": [
+                    3,
+                    13
+                ],
+                "name": "Rifat",
+                "screen_name": "RifatEmil"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1340479358507470850,
+    "id_str": "1340479358507470850",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 19 18:14:40 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1340359912061247488",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/oiu4g0M4LY"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 1340359912061247488,
+        "id_str": "1340359912061247488",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "bn",
+        "metadata": {
+            "iso_language_code": "bn",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u09e8\u09e6\u09e7\u09e7 \u09b8\u09be\u09b2\u09c7\u09b0 \u0986\u099c\u0995\u09c7\u09b0 \u09a6\u09bf\u09a8\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 \u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8\u09c7\u09b0 \u09ac\u09bf\u09aa\u0995\u09cd\u09b7\u09c7 \u09ae\u09bf\u09b0\u09aa\u09c1\u09b0\u09c7 \u09a8\u09bf\u09af\u09bc\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 \u09ec \u0989\u0987\u0995\u09c7\u099f\u0964 \u098f\u09b0 \u0986\u0997\u09c7 \u098f\u0995\u0987 \u099f\u09c7\u09b8\u09cd\u099f\u09c7 \u0995\u09b0\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 \u09a8\u09bf\u2026 https://t.co/oiu4g0M4LY",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jan 29 07:36:29 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "An ordinary lad who loves Cricket.",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 7476,
+            "follow_request_sent": false,
+            "followers_count": 323,
+            "following": false,
+            "friends_count": 108,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 2311396133,
+            "id_str": "2311396133",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 0,
+            "location": "",
+            "name": "Rifat",
+            "notifications": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2311396133/1604340152",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1341339581786906627/CDGlSZm__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341339581786906627/CDGlSZm__normal.jpg",
+            "profile_link_color": "94D487",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "RifatEmil",
+            "statuses_count": 4656,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @RifatEmil: \u09e8\u09e6\u09e7\u09e7 \u09b8\u09be\u09b2\u09c7\u09b0 \u0986\u099c\u0995\u09c7\u09b0 \u09a6\u09bf\u09a8\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 \u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8\u09c7\u09b0 \u09ac\u09bf\u09aa\u0995\u09cd\u09b7\u09c7 \u09ae\u09bf\u09b0\u09aa\u09c1\u09b0\u09c7 \u09a8\u09bf\u09af\u09bc\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 \u09ec \u0989\u0987\u0995\u09c7\u099f\u0964 \u098f\u09b0 \u0986\u0997\u09c7 \u098f\u0995\u0987 \u099f\u09c7\u09b8\u09cd\u099f\u09c7 \u0995\u09b0\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 \u09a8\u09bf\u099c\u09c7\u09b0 \u099f\u09c7\u09b8\u09cd\u099f\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 30 20:39:54 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@MClarke23  @Torres\n\n@LFC @rajasthanroyals",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/estiakshahriar\u2026",
+                        "expanded_url": "http://www.facebook.com/estiakshahriar.shawon",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/8eLq7TcFPH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11446,
+        "follow_request_sent": false,
+        "followers_count": 105,
+        "following": false,
+        "friends_count": 719,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 979820533385711616,
+        "id_str": "979820533385711616",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Bangladesh",
+        "name": "Estiak SHAHRIAR Shawon \ud83c\udf65",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/979820533385711616/1592139700",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1341662586899550208/QPh3W9jj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341662586899550208/QPh3W9jj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Clarke329notout",
+        "statuses_count": 10363,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/8eLq7TcFPH",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 19 18:14:40 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1340359912061247488",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/oiu4g0M4LY"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 1340359912061247488,
+    "id_str": "1340359912061247488",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "bn",
+    "metadata": {
+        "iso_language_code": "bn",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u09e8\u09e6\u09e7\u09e7 \u09b8\u09be\u09b2\u09c7\u09b0 \u0986\u099c\u0995\u09c7\u09b0 \u09a6\u09bf\u09a8\u09c7 \u09b8\u09be\u0995\u09bf\u09ac \u0986\u09b2 \u09b9\u09be\u09b8\u09be\u09a8 \u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8\u09c7\u09b0 \u09ac\u09bf\u09aa\u0995\u09cd\u09b7\u09c7 \u09ae\u09bf\u09b0\u09aa\u09c1\u09b0\u09c7 \u09a8\u09bf\u09af\u09bc\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 \u09ec \u0989\u0987\u0995\u09c7\u099f\u0964 \u098f\u09b0 \u0986\u0997\u09c7 \u098f\u0995\u0987 \u099f\u09c7\u09b8\u09cd\u099f\u09c7 \u0995\u09b0\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 \u09a8\u09bf\u2026 https://t.co/oiu4g0M4LY",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 29 07:36:29 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "An ordinary lad who loves Cricket.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7476,
+        "follow_request_sent": false,
+        "followers_count": 323,
+        "following": false,
+        "friends_count": 108,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2311396133,
+        "id_str": "2311396133",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Rifat",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2311396133/1604340152",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1341339581786906627/CDGlSZm__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341339581786906627/CDGlSZm__normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RifatEmil",
+        "statuses_count": 4656,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
