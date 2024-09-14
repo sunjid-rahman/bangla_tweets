@@ -18,4 +18,11 @@ print(a[1])
 import json
 b=json.loads(open('output.json',encoding='utf-8').read())
 ```
+## Requirements
+Python 3.6+
+Twitter Developer Account & API credentials
+## Contributing
+Feel free to open issues or submit pull requests if you'd like to contribute to this project.
 
+## License
+This project is licensed under the MIT License.
